@@ -1,11 +1,11 @@
 /*
 * Switchable component for jQuery ( AMD Module )
 *
-* Copyright (c) 2013 Yiguo Chan
+* Copyright (c) 2013 Baochun Xie
 * Released under the MIT Licenses
 *
-* Docs : https://github.com/chenmnkken/ecope/wiki/Switchable-%E8%BD%AE%E6%92%AD(%E5%B9%BB%E7%81%AF%E7%89%87)
-* Mail : chenmnkken@gmail.com
+* Docs : https://github.com/xiebaochun/ecope/wiki/Switchable-%E8%BD%AE%E6%92%AD(%E5%B9%BB%E7%81%AF%E7%89%87)
+* Mail : xieperson@gmail.com
 * Date : 2013-10-27
 */
 define(function(){

@@ -1,11 +1,11 @@
 /*
 * Drop component for jQuery ( AMD Module )
 *
-* Copyright (c) 2013 Yiguo Chan
+* Copyright (c) 2013 Baochun Xie
 * Released under the MIT Licenses
 *
-* Docs : https://github.com/chenmnkken/ecope/wiki/Drop-%E6%8B%96%E6%94%BE
-* Mail : chenmnkken@gmail.com
+* Docs : https://github.com/xiebaochun/ecope/wiki/Drop-%E6%8B%96%E6%94%BE
+* Mail : xieperson@gmail.com
 * Date : 2013-10-27
 */
 define(['../../drag/js/drag'], function(){

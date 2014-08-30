@@ -1,11 +1,11 @@
 /*
 * Sortable component for jQuery ( AMD Module )
 *
-* Copyright (c) 2013 Yiguo Chan
+* Copyright (c) 2013 Baochun Xie
 * Released under the MIT Licenses
 *
-* Docs : https://github.com/chenmnkken/ecope/wiki/Sortable-%E6%8B%96%E5%8A%A8%E6%8E%92%E5%BA%8F
-* Mail : chenmnkken@gmail.com
+* Docs : https://github.com/xiebaochun/ecope/wiki/Sortable-%E6%8B%96%E5%8A%A8%E6%8E%92%E5%BA%8F
+* Mail : xieperson@gmail.com
 * Date : 2013-10-27
 */
 define(['../../drop/js/drop'], function(){

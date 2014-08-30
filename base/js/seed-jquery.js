@@ -4,11 +4,11 @@
 * seed v1.1.2
 * AMD module loader
 *
-* Copyright (c) 2013 Yiguo Chan
+* Copyright (c) 2013 Baochun Xie
 * Released under the MIT Licenses
 *
-* Gighub : https://github.com/chenmnkken/seed.git
-* Mail : chenmnkken@gmail.com
+* Gighub : https://github.com/xiebaochun/seed.git
+* Mail : xieperson@gmail.com
 * Date : 2013-11-21
 */
 (function( window, undefined ){

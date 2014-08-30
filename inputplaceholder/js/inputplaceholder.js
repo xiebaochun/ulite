@@ -1,11 +1,11 @@
 /*
 * InputPlaceholder component for jQuery ( AMD Module )
 *
-* Copyright (c) 2013 Yiguo Chan
+* Copyright (c) 2013 Baochun Xie
 * Released under the MIT Licenses
 *
-* Docs : https://github.com/chenmnkken/ecope/wiki/InputPlaceholder-%E8%BE%93%E5%85%A5%E6%A1%86%E7%A9%BA%E7%99%BD%E5%8D%A0%E4%BD%8D%E6%96%87%E5%AD%97
-* Mail : chenmnkken@gmail.com
+* Docs : https://github.com/xiebaochun/ecope/wiki/InputPlaceholder-%E8%BE%93%E5%85%A5%E6%A1%86%E7%A9%BA%E7%99%BD%E5%8D%A0%E4%BD%8D%E6%96%87%E5%AD%97
+* Mail : xieperson@gmail.com
 * Date : 2014-01-01
 */
 define(function(){

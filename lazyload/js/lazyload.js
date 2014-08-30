@@ -1,11 +1,11 @@
 /*
 * Lazyload component for jQuery ( AMD Module )
 *
-* Copyright (c) 2013 Yiguo Chan
+* Copyright (c) 2013 Baochun Xie 
 * Released under the MIT Licenses
 *
-* Docs : https://github.com/chenmnkken/ecope/wiki/Lazyload-%E5%BB%B6%E8%BF%9F%E5%8A%A0%E8%BD%BD
-* Mail : chenmnkken@gmail.com
+* Docs : https://github.com/xiebaochun/ecope/wiki/Lazyload-%E5%BB%B6%E8%BF%9F%E5%8A%A0%E8%BD%BD
+* Mail : xieperson@gmail.com
 * Date : 2013-10-27
 */
 

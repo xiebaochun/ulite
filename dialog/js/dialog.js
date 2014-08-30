@@ -1,11 +1,11 @@
 /*
 * Dialog component for jQuery ( AMD Module )
 *
-* Copyright (c) 2013-2014 Yiguo Chan
+* Copyright (c) 2013-2014 Baochun Xie
 * Released under the MIT Licenses
 *
-* Docs : https://github.com/chenmnkken/ecope/wiki/Dialog-%E5%AF%B9%E8%AF%9D%E6%A1%86
-* Mail : chenmnkken@gmail.com
+* Docs : https://github.com/xiebaochun/ecope/wiki/Dialog-%E5%AF%B9%E8%AF%9D%E6%A1%86
+* Mail : xieperson@gmail.com
 * Date : 2014-03-19
 */
 

@@ -1,11 +1,11 @@
 /*
 * Drag component for jQuery ( AMD Module )
 *
-* Copyright (c) 2013-2014 Yiguo Chan
+* Copyright (c) 2013-2014 Baochun Xie
 * Released under the MIT Licenses
 *
-* Docs : https://github.com/chenmnkken/ecope/wiki/Drag-%E6%8B%96%E6%8B%BD
-* Mail : chenmnkken@gmail.com
+* Docs : https://github.com/xiebaochun/ecope/wiki/Drag-%E6%8B%96%E6%8B%BD
+* Mail : xieperson@gmail.com
 * Date : 2014-2-14
 */
 define(function(){

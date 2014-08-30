@@ -1,11 +1,11 @@
 /*
 * Tooltip component for jQuery ( AMD Module )
 *
-* Copyright (c) 2013 Yiguo Chan
+* Copyright (c) 2013 Baochun Xie
 * Released under the MIT Licenses
 *
-* Docs : https://github.com/chenmnkken/ecope/wiki/Tooltip-%E5%B7%A5%E5%85%B7%E6%8F%90%E7%A4%BA
-* Mail : chenmnkken@gmail.com
+* Docs : https://github.com/xiebaochun/ecope/wiki/Tooltip-%E5%B7%A5%E5%85%B7%E6%8F%90%E7%A4%BA
+* Mail : xieperson@gmail.com
 * Date : 2013-12-14 
 */
 define(function(){

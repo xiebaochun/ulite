@@ -10,7 +10,7 @@ ulite 是一个基于 jQuery 的轻量级组件库，集合了一些常见的简
 
 有问题可以提 issue。 
 
-[在线文档](https://github.com/xiebaochun/ulite/)
+[在线文档](https://xiebaochun.github.io/ulite/)
 
 ***
 
