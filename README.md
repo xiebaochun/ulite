@@ -1,20 +1,20 @@
-# ulite -- easy components for jQuery
+# ulite --A lite UI components for jQuery
 
 ***
 
-ulite 是一个基于 jQuery 的组件库，集合了一些常见的简单实用的UI组件。
+ulite 是一个基于 jQuery 的轻量级组件库，集合了一些常见的简单实用的UI组件。
 
 基于 AMD 的模块化规范，使用 [seed](https://github.com/xiebaochun/seed) 作为加载器，当然你也可以使用符合AMD规范的加载器，如 requireJS。
 
 其中 seed-jquery.js 是 seed(加载器) 与 jQuery(基础类库) 的集合体。
 
-有问题可以提 issue，或者加入 QQ群：202604349 讨论。 
+有问题可以提 issue。 
 
-[在线文档](https://github.com/xiebaochun/ulite/wiki)
+[在线文档](https://github.com/xiebaochun/ulite/)
 
 ***
 
-**在使用 ulite 的组件库之前，如果能花上几分钟看看下面的一些简单的入门指南，在使用组件的时候你会更加的得心应手。**
+**以下是ulite组件库的简单介绍。**
 
 ### 简单性
 ulite 的组件库在 UI(界面) 层面尽量保持简单，开发者可以很方便的通过修改 CSS 样式就可以轻松定制自己想要的样式。
